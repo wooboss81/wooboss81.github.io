@@ -473,3 +473,11 @@ body {
   padding-right: 50px;
   flex-wrap: wrap;
 }
+button[type="reset"] {
+  padding: 10px 20px;
+  background-color: #4cbb17;
+  color: white;
+  border: none;
+  cursor: pointer;
+  
+}
